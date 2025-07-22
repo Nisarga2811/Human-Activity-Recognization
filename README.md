@@ -25,3 +25,13 @@ Walking
 Standing
 Jogging
 Sitting
+
+<img width="930" height="586" alt="Screenshot 2024-12-19 135329" src="https://github.com/user-attachments/assets/57972683-a093-4775-a535-28b049a3fefe" />
+
+<img width="357" height="708" alt="Screenshot 2025-01-21 122848" src="https://github.com/user-attachments/assets/1e51f276-243b-407d-a158-884559edf379" />
+
+<img width="351" height="707" alt="Screenshot 2025-01-21 123036" src="https://github.com/user-attachments/assets/9b37366e-8124-402b-ae0b-93df9e55ab4a" />
+
+<img width="351" height="702" alt="Screenshot 2025-01-21 123052" src="https://github.com/user-attachments/assets/01dcde0c-dc62-4ada-bba9-4f441360d5c9" />
+
+<img width="350" height="706" alt="Screenshot 2025-01-21 123154" src="https://github.com/user-attachments/assets/9018fc4b-579b-481b-b5fd-efe670da46b3" />
